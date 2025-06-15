@@ -1,0 +1,5 @@
+{
+    "model": "hf.co\/shishirahm3d\/ai-lawyer-bd-1-8b-instruct-bnb-4bit-GGUF:Q4_K_M",
+    "apiUrl": "http:\/\/203.190.9.169:11434\/api\/chat",
+    "temperature": 0.8
+}
